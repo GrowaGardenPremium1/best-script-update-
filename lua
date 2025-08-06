@@ -9,5 +9,7 @@ _G.NullConfig = {
     GiftOnlyRares = "Yes",
     ExecuteOtherScript = "No",
 }
-    
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowaGardenPremium1/Random-ESP-egg/refs/heads/main/EGG%20RANDOMIZER"))();
+
 loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/sleepyvill/script/refs/heads/main/lib.lua'))()
